@@ -1,0 +1,3 @@
+R5T.F0005.Construction - Construction project for Generation, initial, parse, simple, Roslyn syntax element functionality..
+
+GOALS:
