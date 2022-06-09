@@ -1,3 +1,8 @@
 R5T.F0005 - Generation, initial, parse, simple, Roslyn syntax element functionality.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.L0011 - Microsoft.CodeAnalysis package selector.
+* R5T.T0132 - FunctionalityMarker attribute and interface.
+* R5T.X0005 - Extensions for Roslyn syntax elements.
